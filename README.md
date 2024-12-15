@@ -10,7 +10,7 @@ The results are published in the paper titled "CognoSpeak: an automatic, remote 
 
 ## Run the scripts: 
 ### Acoustic Classifiers
-python CognoSpeak_acoustics.py <int(number of CPU)> |& tee -a ../logs/acoustic_results.txt
+python CognoSpeak_acoustics.py <int (number of CPU)> |& tee -a ../logs/acoustic_results.txt
 
 
 ### Linguistic Classifiers
