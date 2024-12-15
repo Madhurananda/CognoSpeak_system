@@ -10,7 +10,6 @@ python CognoSpeak_acoustics.py <int(number of CPU)> |& tee -a ../logs/acoustic_r
 
 ### Linguistic Classifiers
 
-<<<<<<< HEAD
 python CognoSpeak_linguistics.py <token name> <list of GPUs> |& tee -a ../logs/linguistics_results.txt
 
 #### Here, the token name is "CognoSpeak" and four GPUs to be used parallely whose cuda ids are 0, 1, 2 and 3 
@@ -20,11 +19,3 @@ python CognoSpeak_linguistics.py CognoSpeak 0,1,2,3 |& tee -a ../logs/linguistic
 
 
 
-
-=======
-python CognoSpeak_linguistics.py CognoSpeak 0,1,2,3 |& tee -a ../logs/linguistics_results.txt
-
-python CognoSpeak_linguistics.py CognoSpeak 0,1,2,3 |& tee -a ../logs/linguistics_results.txt
-
-
->>>>>>> 031dc751bd13422674d305ef6dfac26375e8e92a
