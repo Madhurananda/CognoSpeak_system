@@ -20,3 +20,4 @@ python CognoSpeak_linguistics.py <token name> <list of GPUs> |& tee -a ../logs/l
 #### Here, the token name is "CognoSpeak" and four GPUs are to be used parallelly whose cuda IDs are 0, 1, 2 and 3 
 python CognoSpeak_linguistics.py CognoSpeak 0,1,2,3 |& tee -a ../logs/linguistics_results.txt
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14515541.svg)](https://doi.org/10.5281/zenodo.14515541)
