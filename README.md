@@ -5,7 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/methods-ML%20%7C%20LLM%20%7C%20Speech-orange)
 ![Open Science](https://img.shields.io/badge/open--science-reproducible-success)
 ![IEEE CIHM 2025](https://img.shields.io/badge/publication-IEEE%20CIHM%202025-blueviolet)
-![License](https://img.shields.io/badge/license-Academic--Use-lightgrey)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 
 ---
 
@@ -240,7 +240,9 @@ Access to speech data requires appropriate ethical approval and authorization.
 
 ## License
 
-Academic research use only unless otherwise specified.
+This project is licensed under the **Apache License 2.0**.
+
+See the `LICENSE` file for full details.
 
 ---
 
